@@ -1,0 +1,12 @@
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/training
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/mousse/Documents/flutter/training_iut/iut_training_2024/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
